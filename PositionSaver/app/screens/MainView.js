@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {Text} from 'react-native';
 
-import SavePositionButton from '../components/SavePositionButton';
+import SavePositionButton from '../components/SavePositionButton/SavePositionButton';
 
 export default class SavePositionView extends Component{
     render(){
